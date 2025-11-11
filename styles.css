@@ -9,4 +9,4 @@ button{background:var(--accent);color:#fff;border:none;padding:10px 14px;border-
 .activity{display:flex;justify-content:space-between;align-items:flex-start;padding:12px;border-bottom:1px solid #f0f0f0}
 .activity .meta{max-width:70%}
 .btn-small{background:#eee;color:#222;padding:6px 8px;border-radius:6px;margin-left:6px}
-.msg{margin-top:10px;color:#b00020}
+.msg{margin-top:10px;color:#fff9fa}
